@@ -1,0 +1,9 @@
+/* checkers.css */
+canvas {
+	background-color: green;
+	border: solid 1px black;
+	box-shadow: 5px 5px 5px black;
+	position: relative;
+	width: 400px;
+	height: 400px;
+}
